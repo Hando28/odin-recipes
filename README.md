@@ -14,7 +14,7 @@ Links to the three recipe files were embedded into the website's index via <a hr
 
 Images of the finished recipe's were added to all three recipes pages via <img src=>
 
-Appropriate headings were given to all project pages using <h1> (recipe name) and <h3> (description, ingredients, and steps) tags.
+Appropriate headings were given to all project pages and elements within.
 
 Unordered lists were created for the "ingredients" sections of the individual recipe pages.
 
