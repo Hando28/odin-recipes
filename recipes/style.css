@@ -1,3 +1,8 @@
-.p {
+body {
     text-align: center;
-} 
+}
+
+ul,
+li {
+    align-items: center;
+}
