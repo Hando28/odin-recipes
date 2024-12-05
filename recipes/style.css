@@ -31,7 +31,21 @@ h3 {
     border-color: brown;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 button {
+    background-color: orange;
+    color: black;
+    border: solid 2px brown;
     display: block;
     margin: auto;
+    height: 50px;
+    width: 150px;
+}
+
+button:hover {
+    background-color: goldenrod;
+    color: whitesmoke;
 }
